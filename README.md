@@ -69,6 +69,7 @@ The STM32 microcontroller is used to process CAN data.
 
 ## Illustration
 
+https://github.com/Yosef3dwy/ASURT_Car_Dashboard/blob/50d270372c875e43eed195f5ea2afeaa6fb73182/Dashboard%20Video.mp4
 ---
 
 ## Getting Started
