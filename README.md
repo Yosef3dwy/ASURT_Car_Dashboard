@@ -5,6 +5,12 @@ The system is built around an **STM32F103C8T6 (Blue Pill)** microcontroller and 
 
 ---
 
+## Dashboard
+
+<img width="443" height="248" alt="image" src="https://github.com/user-attachments/assets/aa8bcdd1-40d6-4e90-99b1-3f517eaf8cf5" />
+
+---
+
 ## Project Overview
 The dashboard is a custom module that acts as a **listening node** on the vehicle's CAN bus.  
 It receives and interprets data broadcasted by other systems on the vehicle's network. The STM32 microcontroller processes these CAN messages and translates them into visual updates on a **Nextion NX4827P043-011C display** via the UART protocol, delivering essential information to the driver during a race.
@@ -77,6 +83,3 @@ To run this project, you will need:
 2. Upload the `.HMI` file (found in `/GUI`) to the display using the Nextion Editor.  
 
 ---
-
-## Formula Student Team
-This project is developed for the **YourTeamName / UniversityName** Formula Student team.
