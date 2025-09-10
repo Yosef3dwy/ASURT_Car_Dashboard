@@ -7,7 +7,7 @@ The system is built around an **STM32F103C8T6 (Blue Pill)** microcontroller and 
 
 ## Dashboard
 
-<img width="885" height="496" alt="image" src="https://github.com/user-attachments/assets/aa8bcdd1-40d6-4e90-99b1-3f517eaf8cf5" />
+<img width="443" height="248" alt="image" src="https://github.com/user-attachments/assets/aa8bcdd1-40d6-4e90-99b1-3f517eaf8cf5" />
 
 ---
 
@@ -64,6 +64,10 @@ The STM32 microcontroller is used to process CAN data.
 ### CAN-Based Parameters
 - **ERPM, Throttle Position, Brake Pressure, Motor Temp, Battery State**  
   → Updated in real-time from CAN messages.  
+
+---
+
+## Illustration
 
 ---
 
